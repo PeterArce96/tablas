@@ -1,6 +1,6 @@
 table,th,td{
-    border: 2px solid black;
-    border-collapse: collapse;
+    border: 2px double black;
+    
     
 }
 table{
@@ -12,13 +12,48 @@ th{
     color: crimson;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-td{
-    background-color: yellow;
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fila1{
+    background-color: aqua;
     color: blue;
     font-size: 20px;
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-h1{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+.fila2{
+    background-color: aquamarine;
+    color: green;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fila3{
+    background-color: cornflowerblue;
+    color: purple;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif;
+}
+.t2nombre{
+    background-color: tomato;
+    color: yellow;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.t2telefono{
+    background-color: darkgray;
+    color: crimson;
+    font-size: 20px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.t2telefono2{
+    background-color: greenyellow;
+    color: magenta;
+    font-size: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif;
 }
