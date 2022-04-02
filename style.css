@@ -57,3 +57,41 @@ h1{
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif;
 }
+form{
+    text-align: center;
+    background-color: beige;
+    width: 500px;
+    border-radius: 50px;
+    border: 4px solid black;
+    margin: auto;
+    margin-top: 200px;
+    
+}
+label{
+    font-size: 20px;
+    color: crimson;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 6px;
+    background-color: antiquewhite;
+    
+    
+}
+.body1{
+    background-color: cornflowerblue;
+}
+input{
+    font-size: 14px;
+    border: blue solid 2px;
+    padding: 6px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 2px black;
+}
+#boton{
+    border: 2px solid yellow;
+    border-radius: 4px;
+    background-color: lightgreen;
+    padding: 15px;
+    box-shadow: 2px 2px 2px black;
+    font-weight: bold;
+}
+
